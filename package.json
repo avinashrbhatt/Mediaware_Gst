@@ -1,0 +1,20 @@
+{
+  "name": "mediaware_gst",
+  "version": "1.0.0",
+  "description": "Gst Caluclation API",
+  "main": "mediawaregst.js",
+  "scripts": {
+    "test": "media",
+    "start": "nodemon server.js"
+  },
+  "author": "Avinash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mssql": "^4.0.4",
+    "touch": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
